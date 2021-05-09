@@ -1,2 +1,3 @@
 # my-final-project
-![alt text](https://github.com/nursultan0/my-final-project/commit/e746b3b08d6967299fc8105b4d931c7682439ff3)
+<img width="1425" alt="Снимок экрана 2021-05-09 в 15 40 18" src="https://user-images.githubusercontent.com/65084837/117574816-ba617e80-b100-11eb-9503-c324960e58fe.png">
+
